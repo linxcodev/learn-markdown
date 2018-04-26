@@ -7,7 +7,7 @@
 > ```
 
 ## h2
-----
+
 >```
 > ## h2
 > ```
@@ -32,7 +32,7 @@
 *textitalic* or _textitalic_
 
 >```
-> *text_italic* or _text_italic_
+> *textitalic* or _textitalic_
 >```
 
 **Bold** or __bold__
@@ -48,7 +48,7 @@
 >```
 
 ## Link
-----
+
 [Github](http://github.com/linxcodev)
 
 [Google](http://www.google.com)
@@ -64,7 +64,7 @@
 >```
 
 ## Image
-----
+
 >```
 >![Alt](yourimage)
 >```
@@ -72,7 +72,7 @@
 ![image](image/coba.jpg)
 
 ## Script
-----
+
 ```
  script
 ```
@@ -87,7 +87,7 @@ code :
 nb : delete (*)
 
 ## Quote
-----
+
 > Block Qoute
 
 Code :
@@ -97,7 +97,7 @@ Code :
 ````
 
 ## Script php
-----
+
 >```php
 > public static news()
 > {
@@ -117,7 +117,7 @@ public static news()
 ```
 
 ## Script Html
-----
+
 >```html
 > <h1>Title<h1>
 >```
@@ -136,7 +136,7 @@ Change script `h1` to script `h2`
 ````
 
 ## create table
-----
+
 |no|nama|umur|
 |--|----|----|
 |1|fajrul|21|
@@ -148,5 +148,3 @@ code :
 |--|----|----|
 |1|fajrul|21|
 ````
-
-
